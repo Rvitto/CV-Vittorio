@@ -18,7 +18,10 @@
 /* Eléments principaux de la page */
 
 
-
+p
+{
+    color: blue;
+}
 
 body
 {
